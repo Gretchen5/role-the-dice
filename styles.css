@@ -39,6 +39,12 @@ h1 {
   color: #4ECCA3;
 }
 
+h3 {
+  font-size: 3rem;
+  color: #4ECCA3;
+  margin: 20px;
+}
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
